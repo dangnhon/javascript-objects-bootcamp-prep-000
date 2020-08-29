@@ -1,6 +1,6 @@
 var playlist = {
-  rock: "jrock",
-  anime: "miku",
+  Slodive: "Alison",
+  my: "miku",
   dubstep: "drop"
 }
 
