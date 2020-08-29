@@ -1,7 +1,7 @@
 var playlist = {
   Slodive: "Alison",
   myBloodyValentine: "Sometimes",
-  playlist: "artisName"
+ 
 }
 
 
