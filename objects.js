@@ -1,7 +1,6 @@
 var playlist = {
   Slodive: "Alison",
-  my: "miku",
-  dubstep: "drop"
+  My Bloody Valentine: "",
 }
 
 
