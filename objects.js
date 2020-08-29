@@ -4,10 +4,6 @@ var playslist = {
   dubstep: "drop"
 }
 
-function updatePlaylist(playlist, artist name, song title) {
-  
-  playlist['artist name', 'song title']
-}
 
 
 
